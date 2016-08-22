@@ -1,4 +1,5 @@
-﻿namespace VRTK
+﻿// i changed this
+namespace VRTK
 {
     using UnityEngine;
     using System.Collections;
