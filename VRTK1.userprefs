@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="VRTK1.CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SpeechToText\Scripts\SpeechToTextServices\GoogleNonStreamingSpeechToTextService.cs">
+    <Files>
+      <File FileName="Assets\SpeechToText\Scripts\SpeechToTextServices\GoogleNonStreamingSpeechToTextService.cs" Line="4" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
